@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:59.777218
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:44
 #+TITLE: 量處輕重儀
 #+PROPERTY: CBETA_ID T45n1895
 #+PROPERTY: ID KR6k0181
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1895
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0181_T_000-0839b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0181_T_002-0846b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 末量處輕重儀末¶
+量處輕重儀末¶
 ¶
 
 第十三衣盋坐具鍼筒盛衣貯器。及俱夜羅¶
@@ -437,7 +436,7 @@
 
 初性重之物有五。¶
 
-一房舍所有。謂窓戶㡘幕竿架枰閣鎖鑰床¶
+一房舍所有。謂窓戶㡘幕竿架枰閣瑣鑰床¶
 席枕蓐燈具火爐爐等。
 <pb:KR6k0181_T_002-0850c>¶
 
@@ -840,10 +839,7 @@
 量處輕重儀末(終)¶
 ¶
 
-:PROPERTIES:
-:head: 新刻輕重儀後序
-:END:
-¶
+* 新刻輕重儀後序¶
 
 有必然事。曰之死矣。西天獨尊。東域眾聖。猶¶
 且預之。苟預之則其釋迦法中輕重之儀判。¶
